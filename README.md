@@ -1,2 +1,0 @@
-# OSOBOSS
-Routing from GPT
